@@ -1,0 +1,8 @@
+1- Crear una rama en sus repositorios llamada "feature/taller_git"
+2- Descargar estos archivos y agregarlos a esta rama.
+3- Hacer el commit y push para llevar los cambios al repositorio remoto (GitLab).
+4- Revisar la ejecución del pipeline y validar por qué falla.
+5- Solucionar el error en local. Hacer commit del cambio con el ajuste y hacer push.
+6- Crear un Merge Request desde la rama feature/taller_git hacia Main.
+7- Validar que el pipeline se ejecute correctamente y, solo ahí, completar el merge.
+8- Adjuntar a la tarea un pantallazo de la solución del bug y del merge completado.
